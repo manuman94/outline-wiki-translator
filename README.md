@@ -5,9 +5,14 @@ Automatically translate all documents from an Outline Wiki into English using Op
 ## ✨ Features
 
 - **Collection-Based Translation**: Select specific source collections and organize translations in target collections
+- **Document Hierarchy Replication**: Automatically recreates the complete folder structure from source to target collection
 - **Automatic Translation**: Uses OpenAI GPT-4o to translate documents while preserving Markdown formatting
+- **Intermediate Document Translation**: Translates folder/parent documents content, not just leaf documents
 - **Smart Tracking**: Maintains a record of translated documents to avoid duplicates
+- **Hierarchy Duplicate Prevention**: Advanced tracking prevents creating duplicate folders when processing documents in different orders
 - **Update Detection**: Identifies when original documents have been modified since translation
+- **Emoji Preservation**: Maintains original document emojis in translated versions
+- **Title Quote Removal**: Automatically removes erroneous quotes from translated titles
 - **Organized Output**: Creates all translations in a dedicated target collection for easy management
 - **Collection Discovery**: Built-in helper to list and identify collection IDs
 - **Cost Control**: Set spending limits, batch sizes, and dry-run modes to control API costs
@@ -94,11 +99,45 @@ npm run start
 ## 📊 How It Works
 
 1. **Collection Selection**: Fetches documents from your specified source collection using the `/documents.list` endpoint
-2. **Content Analysis**: Downloads full content for each document via `/documents.info`
-3. **Smart Translation**: Uses OpenAI GPT-4o to translate content while preserving Markdown structure
-4. **Document Creation**: Creates new translated documents with `[EN]` prefix in the target collection
-5. **Organization**: Places all translations in the specified target collection for easy management
-6. **Progress Tracking**: Saves translation records in `translatedDocs.json` to avoid re-processing
+2. **Hierarchy Analysis**: Builds a complete document tree structure to understand folder relationships
+3. **Content Analysis**: Downloads full content for each document via `/documents.info`
+4. **Folder Structure Creation**: Creates the translated folder hierarchy in target collection before translating documents
+5. **Smart Translation**: Uses OpenAI GPT-4o to translate both content and titles while preserving Markdown structure
+6. **Document Creation**: Creates translated documents in their correct hierarchical position (no prefix needed)
+7. **Duplicate Prevention**: Tracks all translations to prevent creating duplicate folders or documents
+8. **Organization**: Maintains the exact folder structure from source in the target collection
+9. **Progress Tracking**: Saves translation records in `translatedDocs.json` to avoid re-processing
+
+### 🌳 Document Hierarchy Replication
+
+The tool automatically replicates the complete folder structure from your source collection:
+
+**Example Structure:**
+
+```
+Source Collection (Spanish):           Target Collection (English):
+├── Lore                              ├── Lore
+│   ├── Personajes                    │   ├── Characters
+│   │   └── Rey Arturo                │   │   └── King Arthur
+│   └── Lugares                       │   └── Places
+│       └── Camelot                   │       └── Camelot
+└── Game Mechanics                    └── Game Mechanics
+    └── Combat System                     └── Combat System
+```
+
+**Key Features:**
+
+- **Folder Names Translated**: `"Personajes"` → `"Characters"`
+- **Folder Content Translated**: All intermediate documents get their content translated
+- **Hierarchy Preserved**: Documents appear in the same relative structure
+- **Duplicate Prevention**: Smart tracking prevents creating duplicate folders
+- **Emoji Preservation**: Folder emojis are maintained in translations
+
+**Processing Order Independence:**
+
+- Whether you translate a deep document first or its parent folder first, no duplicates are created
+- The system tracks all folder creation and reuses existing translated folders
+- Perfect for batch processing with any `BATCH_SIZE` setting
 
 ### 🔍 Finding Collection IDs
 
@@ -164,6 +203,13 @@ The tool creates a `translatedDocs.json` file to track translations:
 }
 ```
 
+**Enhanced Tracking Features:**
+
+- **Folder Tracking**: Parent/folder documents are tracked to prevent duplicate creation
+- **Hierarchy Awareness**: Tracks both leaf documents and intermediate folder documents
+- **Order Independence**: Prevents duplicates regardless of processing order (deep → shallow or shallow → deep)
+- **Resume Capability**: Can safely resume translation after interruption without creating duplicates
+
 ## 💰 Cost Control & Safety Features
 
 ### 🛡️ Spending Protection
@@ -211,6 +257,8 @@ This mode:
 - 🔍 Shows what would happen for remaining documents (no API calls)
 - 💰 Incurs minimal cost (only for the first document)
 - 📋 Provides accurate cost estimates for full batch
+- 🌳 Tests folder structure creation and hierarchy replication
+- 📁 Creates necessary parent folders with translated content for testing
 
 ### 💡 Cost Control Examples
 
@@ -265,19 +313,22 @@ Based on GPT-4o pricing (as of 2024):
 outline-translate/
 ├── src/
 │   ├── config/
-│   │   └── index.ts          # Environment configuration
+│   │   └── index.ts              # Environment configuration
 │   ├── services/
-│   │   ├── outlineClient.ts  # Outline API client
-│   │   ├── translationService.ts # OpenAI translation service
-│   │   └── translationTracker.ts # Translation tracking
+│   │   ├── outlineClient.ts      # Outline API client
+│   │   ├── translationService.ts # OpenAI translation service with quote removal
+│   │   ├── translationTracker.ts # Translation tracking and duplicate prevention
+│   │   ├── documentHierarchy.ts  # Document tree analysis and folder structure replication
+│   │   ├── costEstimator.ts      # Cost estimation and spending limits
+│   │   └── usageMonitor.ts       # OpenAI usage monitoring and guidance
 │   ├── types/
-│   │   └── index.ts          # TypeScript interfaces
-│   └── index.ts              # Main application logic
+│   │   └── index.ts              # TypeScript interfaces
+│   └── index.ts                  # Main application logic with hierarchy support
 ├── package.json
 ├── tsconfig.json
-├── .env                      # Your environment variables
-├── .env.example             # Environment template
-├── translatedDocs.json      # Translation tracking (auto-generated)
+├── .env                          # Your environment variables
+├── .env.example                 # Environment template
+├── translatedDocs.json          # Translation tracking (auto-generated)
 └── README.md
 ```
 
@@ -369,14 +420,41 @@ npm install
 - Increase the delay between requests in `src/index.ts`
 - Consider running the tool during off-peak hours
 
+**Only one document being translated**
+
+- Check your `BATCH_SIZE` setting in `.env` - it might be set to 1
+- Review `translatedDocs.json` - documents might already be translated from previous runs
+- Look for "already translated and up-to-date" messages in the logs
+
+**Duplicate folders or documents**
+
+- The tool should prevent this automatically with hierarchy tracking
+- If duplicates occur, try clearing `translatedDocs.json` and starting fresh
+- Check logs for "Found existing translated folder" messages
+
+**Quotes around translated titles**
+
+- This should be automatically fixed by the quote removal feature
+- If quotes persist, check that your `translationService.ts` includes the quote removal regex
+
+**Folders not being translated**
+
+- The tool now translates both folder names AND content
+- Check logs for "Translating folder name" and "Created folder" messages
+- Intermediate documents should appear as translated in the target collection
+
 ### Debug Information
 
 The tool provides detailed logging:
 
-- 📚 Document fetching progress
-- 🌐 Translation status
-- 📝 Document creation results
-- 📊 Final statistics
+- 📚 Document fetching progress with hierarchy information
+- 🌳 Document tree structure analysis and statistics
+- 🔍 Complete document discovery with parent-child relationships
+- 📁 Folder structure creation and translation tracking
+- 🌐 Translation status for both content and titles
+- 📝 Document creation results with hierarchy positioning
+- 🔄 Duplicate detection and prevention messages
+- 📊 Final statistics with folder and document counts
 
 ## 📄 License
 
