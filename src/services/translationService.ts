@@ -3,11 +3,13 @@ import { Config } from "../types";
 import { UsageMonitor } from "./usageMonitor";
 
 export class TranslationService {
+  private readonly model: string;
   private openai: OpenAI;
   private usageMonitor: UsageMonitor;
   private dryRun: boolean;
 
   constructor(config: Config) {
+    this.model = config.model || "gpt-4o";
     this.openai = new OpenAI({
       apiKey: config.openaiApiKey,
     });
@@ -40,7 +42,7 @@ export class TranslationService {
 
     try {
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4o",
+        model: this.model,
         messages: [
           {
             role: "system",
@@ -171,16 +173,16 @@ ${content}`;
 
     try {
       const response = await this.openai.chat.completions.create({
-        model: "gpt-4o",
+        model: this.model,
         messages: [
           {
             role: "system",
             content:
-              "You are a professional translator. Translate the given title to English. Return only the translated title, nothing else.",
+              "You are a professional translator. Translate the given title to English. Return only the translated title without any quotes, formatting, or additional text.",
           },
           {
             role: "user",
-            content: `Translate this title to English: "${title}"`,
+            content: `Translate this title to English: ${title}`,
           },
         ],
         temperature: 0.3,

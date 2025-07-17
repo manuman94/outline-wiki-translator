@@ -1,26 +1,1018 @@
 {
+  "29726c82-143a-45aa-8565-f2e09bc29730": {
+    "originalId": "29726c82-143a-45aa-8565-f2e09bc29730",
+    "translatedId": "57d27a22-1212-423c-8fb7-0e3bc7ee1355",
+    "originalTitle": "Lore",
+    "translatedTitle": "Flower",
+    "originalUpdatedAt": "2025-03-31T08:30:54.555Z",
+    "translatedAt": "2025-07-17T19:29:00.287Z"
+  },
   "af0031e0-3b3b-4d92-aabb-92f1ab52c3a4": {
     "originalId": "af0031e0-3b3b-4d92-aabb-92f1ab52c3a4",
-    "translatedId": "a997c7b1-f424-41e6-8b55-f4a99665f18e",
+    "translatedId": "5165994c-20cd-423d-b032-2b1d7108dfb5",
     "originalTitle": "Resumen general",
-    "translatedTitle": "[EN] [DRY RUN] Translated: Resumen general",
+    "translatedTitle": "General Summary",
     "originalUpdatedAt": "2025-07-17T12:19:04.474Z",
-    "translatedAt": "2025-07-17T18:42:38.183Z"
+    "translatedAt": "2025-07-17T19:29:25.573Z"
   },
-  "8f816ec6-4213-4710-8cef-268408cc9a34": {
-    "originalId": "8f816ec6-4213-4710-8cef-268408cc9a34",
-    "translatedId": "133afe68-a9fb-43cb-848b-35e304795610",
-    "originalTitle": "Reunión 2025-07-15",
-    "translatedTitle": "Meeting 2025-07-15",
-    "originalUpdatedAt": "2025-07-15T19:35:20.970Z",
-    "translatedAt": "2025-07-17T18:58:33.852Z"
+  "b81f7322-51f3-4311-845f-1212cf018688": {
+    "originalId": "b81f7322-51f3-4311-845f-1212cf018688",
+    "translatedId": "c4ce473c-9a86-47a9-8f59-a9c9e80c6a7d",
+    "originalTitle": "Personajes",
+    "translatedTitle": "Characters",
+    "originalUpdatedAt": "2025-03-31T08:31:10.192Z",
+    "translatedAt": "2025-07-17T19:29:27.323Z"
   },
   "9f0d8b21-c133-4015-aa59-6de98aa9ba01": {
     "originalId": "9f0d8b21-c133-4015-aa59-6de98aa9ba01",
-    "translatedId": "fbf1bc9f-bfc6-499b-a403-cd1b3507f0e8",
+    "translatedId": "c433b6d0-f3c8-4ad5-bab1-c5f96bccc115",
     "originalTitle": "Antenio (spa)/Wirelliam (eng) - Robot de la tienda",
-    "translatedTitle": "Antenio (spa)/Wirelliam (eng) - Store Robot",
+    "translatedTitle": "Antenio/Wirelliam - Store Robot",
     "originalUpdatedAt": "2025-06-17T10:37:56.977Z",
-    "translatedAt": "2025-07-17T19:01:55.117Z"
+    "translatedAt": "2025-07-17T19:29:28.663Z"
+  },
+  "e0f6d972-3ff2-4af2-8ec5-f7d29139932d": {
+    "originalId": "e0f6d972-3ff2-4af2-8ec5-f7d29139932d",
+    "translatedId": "99f90b67-4c86-49a9-b992-21fe4fb738cd",
+    "originalTitle": "Entorno",
+    "translatedTitle": "Environment",
+    "originalUpdatedAt": "2025-03-31T08:38:49.420Z",
+    "translatedAt": "2025-07-17T19:29:33.103Z"
+  },
+  "99b1a056-70d2-4b38-8633-7150f06d2dec": {
+    "originalId": "99b1a056-70d2-4b38-8633-7150f06d2dec",
+    "translatedId": "86ac0846-1078-4b73-995f-ec5f7052707a",
+    "originalTitle": "Nave Asphodeus",
+    "translatedTitle": "Asphodeus Ship",
+    "originalUpdatedAt": "2025-04-16T13:58:04.359Z",
+    "translatedAt": "2025-07-17T19:29:34.902Z"
+  },
+  "ee469e44-2f58-4a9a-b8e5-5b9dcc537f02": {
+    "originalId": "ee469e44-2f58-4a9a-b8e5-5b9dcc537f02",
+    "translatedId": "73d8a55e-a773-4777-b2db-de9006fd8813",
+    "originalTitle": "Cápsula de escape",
+    "translatedTitle": "Escape Capsule",
+    "originalUpdatedAt": "2025-04-15T20:33:42.501Z",
+    "translatedAt": "2025-07-17T19:29:39.711Z"
+  },
+  "7ab18d65-6d4b-43ef-ab2c-5981219639b6": {
+    "originalId": "7ab18d65-6d4b-43ef-ab2c-5981219639b6",
+    "translatedId": "9483360b-1cca-4f65-8f50-ecd8197b0a99",
+    "originalTitle": "Localizaciones",
+    "translatedTitle": "Locations",
+    "originalUpdatedAt": "2025-03-31T09:18:15.602Z",
+    "translatedAt": "2025-07-17T19:29:41.328Z"
+  },
+  "88ac7e5a-d8c5-45bf-9011-5ff53c996872": {
+    "originalId": "88ac7e5a-d8c5-45bf-9011-5ff53c996872",
+    "translatedId": "0e3e1ccf-c802-4726-9fc1-b530ec2c234c",
+    "originalTitle": "Mazmorra",
+    "translatedTitle": "Dungeon",
+    "originalUpdatedAt": "2025-04-15T20:17:15.016Z",
+    "translatedAt": "2025-07-17T19:29:44.590Z"
+  },
+  "411f3028-7c0e-4479-9e79-be322395fc3f": {
+    "originalId": "411f3028-7c0e-4479-9e79-be322395fc3f",
+    "translatedId": "cf0a9c9a-7bab-4085-8088-b55ecfa7b947",
+    "originalTitle": "Nivel 5 - Zona Militar",
+    "translatedTitle": "Level 5 - Military Zone",
+    "originalUpdatedAt": "2025-04-15T20:20:18.467Z",
+    "translatedAt": "2025-07-17T19:29:52.144Z"
+  },
+  "3714588a-2041-4a0b-94e7-084b4082af3e": {
+    "originalId": "3714588a-2041-4a0b-94e7-084b4082af3e",
+    "translatedId": "1bdb6bd8-e82e-46de-adb4-295c41ac4068",
+    "originalTitle": "Estación de acoplamiento/desacoplamiento",
+    "translatedTitle": "Docking/undocking station",
+    "originalUpdatedAt": "2025-04-15T20:24:55.942Z",
+    "translatedAt": "2025-07-17T19:29:57.172Z"
+  },
+  "b211cdf8-b559-485c-a4ba-8a9e6b74086c": {
+    "originalId": "b211cdf8-b559-485c-a4ba-8a9e6b74086c",
+    "translatedId": "ffb80f1e-e0fc-4392-bf5c-22eac61a59fe",
+    "originalTitle": "Nivel 4 - Laboratorio Médico",
+    "translatedTitle": "Level 4 - Medical Laboratory",
+    "originalUpdatedAt": "2025-04-15T19:48:07.475Z",
+    "translatedAt": "2025-07-17T19:30:23.177Z"
+  },
+  "e0af2e96-2faf-4503-a8a8-de661f7cd5dc": {
+    "originalId": "e0af2e96-2faf-4503-a8a8-de661f7cd5dc",
+    "translatedId": "f68bb9ac-08c4-4550-a0a0-061d99b7ebff",
+    "originalTitle": "Nivel 3 - Distribución de agua",
+    "translatedTitle": "Level 3 - Water Distribution",
+    "originalUpdatedAt": "2025-04-15T19:46:49.879Z",
+    "translatedAt": "2025-07-17T19:30:30.864Z"
+  },
+  "1677199d-00e2-4115-aa74-f455cf945db5": {
+    "originalId": "1677199d-00e2-4115-aa74-f455cf945db5",
+    "translatedId": "ebab6d1d-3a93-42d0-b89c-8fb2bbca569a",
+    "originalTitle": "Nivel 2 - Botánica",
+    "translatedTitle": "Level 2 - Botany",
+    "originalUpdatedAt": "2025-04-15T19:46:40.476Z",
+    "translatedAt": "2025-07-17T19:30:37.041Z"
+  },
+  "16686c0d-8eb6-412d-9c50-359807094f65": {
+    "originalId": "16686c0d-8eb6-412d-9c50-359807094f65",
+    "translatedId": "2a63d069-c4de-452f-9321-4b08e4eb3809",
+    "originalTitle": "Nivel 1 - Núcleo de Energía",
+    "translatedTitle": "Level 1 - Energy Core",
+    "originalUpdatedAt": "2025-04-15T19:46:28.627Z",
+    "translatedAt": "2025-07-17T19:31:01.236Z"
+  },
+  "a67bb692-1cda-4474-a3d3-fe2d9e7e17b2": {
+    "originalId": "a67bb692-1cda-4474-a3d3-fe2d9e7e17b2",
+    "translatedId": "30d50363-178f-4793-a6a0-5df9d9834ed7",
+    "originalTitle": "Conceptos importantes",
+    "translatedTitle": "Important Concepts",
+    "originalUpdatedAt": "2025-04-03T15:58:15.980Z",
+    "translatedAt": "2025-07-17T19:31:02.928Z"
+  },
+  "0d0d6e14-0b8f-4314-a59b-7eee0a06bb2a": {
+    "originalId": "0d0d6e14-0b8f-4314-a59b-7eee0a06bb2a",
+    "translatedId": "d7428043-e768-4c69-a177-c2050638fc51",
+    "originalTitle": "Infección simbiótica",
+    "translatedTitle": "Symbiotic Infection",
+    "originalUpdatedAt": "2025-04-13T18:05:17.082Z",
+    "translatedAt": "2025-07-17T19:31:05.169Z"
+  },
+  "a556ae1b-0f32-403e-b7c6-3a6c155c66ec": {
+    "originalId": "a556ae1b-0f32-403e-b7c6-3a6c155c66ec",
+    "translatedId": "5bd9bf1b-0285-4099-848e-803d98b74241",
+    "originalTitle": "Planetarium - Sala Segura",
+    "translatedTitle": "Planetarium - Safe Room",
+    "originalUpdatedAt": "2025-04-13T11:44:36.543Z",
+    "translatedAt": "2025-07-17T19:31:14.995Z"
+  },
+  "973eff2a-bd5c-4ef8-8cd7-c1222c77bc5e": {
+    "originalId": "973eff2a-bd5c-4ef8-8cd7-c1222c77bc5e",
+    "translatedId": "d3d4eb86-0071-4aad-9221-ae0ab116f91b",
+    "originalTitle": "Paul Lorien",
+    "translatedTitle": "Paul Lorien",
+    "originalUpdatedAt": "2025-04-13T11:33:05.108Z",
+    "translatedAt": "2025-07-17T19:31:27.335Z"
+  },
+  "f8391457-5e18-4ca2-8eee-e280d995ffbe": {
+    "originalId": "f8391457-5e18-4ca2-8eee-e280d995ffbe",
+    "translatedId": "af5dfd10-8ec0-47c4-a56d-13b00ef54c4a",
+    "originalTitle": "Azus Lorien",
+    "translatedTitle": "Azus Lorien",
+    "originalUpdatedAt": "2025-04-06T19:08:53.353Z",
+    "translatedAt": "2025-07-17T19:31:59.270Z"
+  },
+  "d40809a5-23de-49cf-bf2e-732375dcd2df": {
+    "originalId": "d40809a5-23de-49cf-bf2e-732375dcd2df",
+    "translatedId": "1a32d353-100c-4b2f-8c72-1a7d022683ba",
+    "originalTitle": "Familia Lorien",
+    "translatedTitle": "Lorien Family",
+    "originalUpdatedAt": "2025-04-06T19:07:54.797Z",
+    "translatedAt": "2025-07-17T19:32:23.527Z"
+  },
+  "d89a4947-54be-4cef-bb75-370e99382d1f": {
+    "originalId": "d89a4947-54be-4cef-bb75-370e99382d1f",
+    "translatedId": "a9743009-dfdd-4eef-82dc-221555a043cd",
+    "originalTitle": "Veka Virel",
+    "translatedTitle": "Veka Virel",
+    "originalUpdatedAt": "2025-04-04T23:16:44.813Z",
+    "translatedAt": "2025-07-17T19:32:33.279Z"
+  },
+  "7fe58c24-cbfc-4d4d-b5d7-bac1dfc9b18b": {
+    "originalId": "7fe58c24-cbfc-4d4d-b5d7-bac1dfc9b18b",
+    "translatedId": "abc92833-ad00-4ff2-9ec7-73ced08d8fb0",
+    "originalTitle": "Riley Mason",
+    "translatedTitle": "Riley Mason",
+    "originalUpdatedAt": "2025-04-04T23:15:14.855Z",
+    "translatedAt": "2025-07-17T19:32:45.229Z"
+  },
+  "4d2d6b00-6201-4716-87e6-cd98f5aa7558": {
+    "originalId": "4d2d6b00-6201-4716-87e6-cd98f5aa7558",
+    "translatedId": "9842653b-4d36-4acd-b731-d7d25864ae4c",
+    "originalTitle": "Soldados Tecnos",
+    "translatedTitle": "Techno Soldiers",
+    "originalUpdatedAt": "2025-04-04T23:08:39.519Z",
+    "translatedAt": "2025-07-17T19:32:51.061Z"
+  },
+  "b075255e-8513-4967-9655-ea797547c1e7": {
+    "originalId": "b075255e-8513-4967-9655-ea797547c1e7",
+    "translatedId": "474acc16-d8b0-46ed-9b30-d1e4347fbb4d",
+    "originalTitle": "Natura",
+    "translatedTitle": "Nature",
+    "originalUpdatedAt": "2025-04-03T17:34:01.654Z",
+    "translatedAt": "2025-07-17T19:34:17.066Z"
+  },
+  "05c80c61-7cd4-45b5-aa83-0b1d8360c2a1": {
+    "originalId": "05c80c61-7cd4-45b5-aa83-0b1d8360c2a1",
+    "translatedId": "9c4a533f-9541-4f8b-bbd0-0e2dafaaa5c5",
+    "originalTitle": "Tecnos",
+    "translatedTitle": "Technos",
+    "originalUpdatedAt": "2025-04-03T17:26:42.569Z",
+    "translatedAt": "2025-07-17T19:34:23.939Z"
+  },
+  "a66f1b13-cc25-4f48-9158-a21afcdfdbdf": {
+    "originalId": "a66f1b13-cc25-4f48-9158-a21afcdfdbdf",
+    "translatedId": "902d60f5-c96b-4262-b1be-89d0125a9b33",
+    "originalTitle": "Instructor Mason",
+    "translatedTitle": "Instructor Mason",
+    "originalUpdatedAt": "2025-04-03T17:09:25.886Z",
+    "translatedAt": "2025-07-17T19:34:41.568Z"
+  },
+  "a63185aa-5c0b-43d7-a5fe-225b64609eda": {
+    "originalId": "a63185aa-5c0b-43d7-a5fe-225b64609eda",
+    "translatedId": "81dd3451-4e47-4c12-865f-a046a71e056a",
+    "originalTitle": "Hitos importantes del juego",
+    "translatedTitle": "Important Milestones of the Game",
+    "originalUpdatedAt": "2025-03-31T09:44:39.306Z",
+    "translatedAt": "2025-07-17T19:34:43.418Z"
+  },
+  "1c888cfb-7b93-4fc3-8d1b-344b7e7218c1": {
+    "originalId": "1c888cfb-7b93-4fc3-8d1b-344b7e7218c1",
+    "translatedId": "7c764faf-2dfd-43cd-945b-9b8d9167c2b2",
+    "originalTitle": "Idea para un posible segundo juego",
+    "translatedTitle": "Idea for a Possible Second Game",
+    "originalUpdatedAt": "2025-04-03T17:03:03.240Z",
+    "translatedAt": "2025-07-17T19:34:51.948Z"
+  },
+  "d56425c4-2bac-48a3-9b8e-02ab2a1335f8": {
+    "originalId": "d56425c4-2bac-48a3-9b8e-02ab2a1335f8",
+    "translatedId": "a103f7b2-35a5-4b77-a69c-f113fd581080",
+    "originalTitle": "Objetos",
+    "translatedTitle": "Objects",
+    "originalUpdatedAt": "2025-03-31T09:17:20.303Z",
+    "translatedAt": "2025-07-17T19:34:53.797Z"
+  },
+  "f43ad4e0-4142-467b-b0ed-e3458245b966": {
+    "originalId": "f43ad4e0-4142-467b-b0ed-e3458245b966",
+    "translatedId": "8e73fc9b-bde5-434c-8ef1-94a3af6bd631",
+    "originalTitle": "Documentos",
+    "translatedTitle": "Documents",
+    "originalUpdatedAt": "2025-04-03T16:51:54.604Z",
+    "translatedAt": "2025-07-17T19:34:57.113Z"
+  },
+  "05016cff-a584-42af-9948-0425397d7194": {
+    "originalId": "05016cff-a584-42af-9948-0425397d7194",
+    "translatedId": "713b5198-fa95-46af-aad5-b60f8ea5734f",
+    "originalTitle": "Documentos clasificados",
+    "translatedTitle": "Classified Documents",
+    "originalUpdatedAt": "2025-04-03T16:53:05.106Z",
+    "translatedAt": "2025-07-17T19:35:00.999Z"
+  },
+  "80269922-0ac8-4ba0-878a-4f66788f3334": {
+    "originalId": "80269922-0ac8-4ba0-878a-4f66788f3334",
+    "translatedId": "8f44984d-6755-40a5-a3de-0cf838a4b480",
+    "originalTitle": "Game Mechanics",
+    "translatedTitle": "Mécanismes de jeu",
+    "originalUpdatedAt": "2025-03-29T12:07:04.468Z",
+    "translatedAt": "2025-07-17T19:35:03.798Z"
+  },
+  "25c17209-5696-4ac8-aa46-7253fe89ba3e": {
+    "originalId": "25c17209-5696-4ac8-aa46-7253fe89ba3e",
+    "translatedId": "b21b5c48-4729-4983-93ca-a52908b65c26",
+    "originalTitle": "Funcionamiento Mazmorra",
+    "translatedTitle": "Dungeon Operation",
+    "originalUpdatedAt": "2025-04-03T16:51:26.943Z",
+    "translatedAt": "2025-07-17T19:35:09.891Z"
+  },
+  "6f757f18-dedb-4103-976b-cb0861aeb3ce": {
+    "originalId": "6f757f18-dedb-4103-976b-cb0861aeb3ce",
+    "translatedId": "8b7704dd-dfea-4d2f-b93f-66ccaab5abe3",
+    "originalTitle": "Crónica de la guerra",
+    "translatedTitle": "Chronicle of the War",
+    "originalUpdatedAt": "2025-04-03T16:49:47.489Z",
+    "translatedAt": "2025-07-17T19:35:12.521Z"
+  },
+  "835181bd-3ccc-452a-98cb-114e46c57b76": {
+    "originalId": "835181bd-3ccc-452a-98cb-114e46c57b76",
+    "translatedId": "2da4b969-43de-4a2a-b64d-082955aaf8ea",
+    "originalTitle": "Hacer creer que Veka es Riley",
+    "translatedTitle": "Make Believe That Veka Is Riley",
+    "originalUpdatedAt": "2025-04-03T16:43:35.608Z",
+    "translatedAt": "2025-07-17T19:35:24.082Z"
+  },
+  "438d440f-ebd5-486e-b215-5163179c29df": {
+    "originalId": "438d440f-ebd5-486e-b215-5163179c29df",
+    "translatedId": "69376434-56df-4e15-b8b1-5a3d1d2294de",
+    "originalTitle": "Guerra del Último Bosque",
+    "translatedTitle": "War of the Last Forest",
+    "originalUpdatedAt": "2025-04-03T16:26:51.422Z",
+    "translatedAt": "2025-07-17T19:35:31.039Z"
+  },
+  "f3ad84f8-aa0e-4440-b898-f2b36ec65f64": {
+    "originalId": "f3ad84f8-aa0e-4440-b898-f2b36ec65f64",
+    "translatedId": "5ca395aa-d386-4cf8-9e9a-1807a38c72ab",
+    "originalTitle": "Colapso",
+    "translatedTitle": "Collapse",
+    "originalUpdatedAt": "2025-04-03T16:25:10.154Z",
+    "translatedAt": "2025-07-17T19:35:33.411Z"
+  },
+  "ca71f29c-9f32-4256-877d-52731b933177": {
+    "originalId": "ca71f29c-9f32-4256-877d-52731b933177",
+    "translatedId": "58b358a7-8789-4a1e-9954-d62e865950e6",
+    "originalTitle": "Progreso Absoluto",
+    "translatedTitle": "Absolute Progress",
+    "originalUpdatedAt": "2025-04-03T16:24:25.585Z",
+    "translatedAt": "2025-07-17T19:35:36.734Z"
+  },
+  "a82a22d6-796b-4ecc-abef-93eb1d02c74f": {
+    "originalId": "a82a22d6-796b-4ecc-abef-93eb1d02c74f",
+    "translatedId": "132a5341-ee38-4272-bd25-50ebf3cd6af8",
+    "originalTitle": "Instructor Supremo",
+    "translatedTitle": "Supreme Instructor",
+    "originalUpdatedAt": "2025-04-03T16:16:02.638Z",
+    "translatedAt": "2025-07-17T19:35:39.067Z"
+  },
+  "b7c1803b-e14d-4e06-8a6d-ee24dc5bc654": {
+    "originalId": "b7c1803b-e14d-4e06-8a6d-ee24dc5bc654",
+    "translatedId": "f93ed799-0f93-4bb3-911f-3988ae57cbd3",
+    "originalTitle": "Expedición al nuevo edén",
+    "translatedTitle": "Expedition to the New Eden",
+    "originalUpdatedAt": "2025-04-03T16:06:44.945Z",
+    "translatedAt": "2025-07-17T19:35:41.853Z"
+  },
+  "ace08ec3-2e2f-4c07-8bf9-1d723a797cb6": {
+    "originalId": "ace08ec3-2e2f-4c07-8bf9-1d723a797cb6",
+    "translatedId": "ad2b66a4-4e93-410f-b7e5-624ccdfe4b68",
+    "originalTitle": "Planeta Sollaboris",
+    "translatedTitle": "Planet Sollaboris",
+    "originalUpdatedAt": "2025-04-03T11:35:13.163Z",
+    "translatedAt": "2025-07-17T19:35:45.734Z"
+  },
+  "b97f4063-52f9-49c5-9e0f-429bd13c351c": {
+    "originalId": "b97f4063-52f9-49c5-9e0f-429bd13c351c",
+    "translatedId": "862817aa-ba48-4250-b4c0-228d0d282654",
+    "originalTitle": "Mini Bosses",
+    "translatedTitle": "Mini Bosses",
+    "originalUpdatedAt": "2025-03-29T14:55:10.007Z",
+    "translatedAt": "2025-07-17T19:35:48.124Z"
+  },
+  "5978eae9-892a-426a-add6-5a175d034aa3": {
+    "originalId": "5978eae9-892a-426a-add6-5a175d034aa3",
+    "translatedId": "1aacab53-8aff-4692-862e-eb7ac7bc1290",
+    "originalTitle": "Mini-boss 1.3 - Generador aether + Guardia Alpha",
+    "translatedTitle": "Mini-boss 1.3 - Aether Generator + Alpha Guard",
+    "originalUpdatedAt": "2025-04-02T22:36:15.839Z",
+    "translatedAt": "2025-07-17T19:35:59.010Z"
+  },
+  "c3759133-88a6-4735-b0bd-6dc4afbdd69e": {
+    "originalId": "c3759133-88a6-4735-b0bd-6dc4afbdd69e",
+    "translatedId": "b37c3bf0-002f-4aa4-8a8c-c46d075f3f76",
+    "originalTitle": "Bosses",
+    "translatedTitle": "Jefes",
+    "originalUpdatedAt": "2025-04-02T22:16:51.334Z",
+    "translatedAt": "2025-07-17T19:36:01.170Z"
+  },
+  "98ae3d2f-de98-4d52-9f89-b671bd6a6242": {
+    "originalId": "98ae3d2f-de98-4d52-9f89-b671bd6a6242",
+    "translatedId": "e4c891e7-b03a-4ccd-9e93-0053412ac3d3",
+    "originalTitle": "Misiones secundarias",
+    "translatedTitle": "Side Missions",
+    "originalUpdatedAt": "2025-04-02T21:22:33.951Z",
+    "translatedAt": "2025-07-17T19:36:03.887Z"
+  },
+  "d2163944-c6df-47fb-b7b0-a7df97e2b764": {
+    "originalId": "d2163944-c6df-47fb-b7b0-a7df97e2b764",
+    "translatedId": "d633bc48-16ef-4235-b4a2-d608cef34174",
+    "originalTitle": "Activar ascensor 1.5",
+    "translatedTitle": "Activate Elevator 1.5",
+    "originalUpdatedAt": "2025-04-02T21:22:36.550Z",
+    "translatedAt": "2025-07-17T19:36:08.636Z"
+  },
+  "e3ae1b22-c0ea-482a-ab1a-ec94244ec73a": {
+    "originalId": "e3ae1b22-c0ea-482a-ab1a-ec94244ec73a",
+    "translatedId": "b1ae8f7c-229b-47d9-b96b-8d66782ca219",
+    "originalTitle": "Misiones",
+    "translatedTitle": "Missions",
+    "originalUpdatedAt": "2025-04-02T11:18:32.233Z",
+    "translatedAt": "2025-07-17T19:36:10.910Z"
+  },
+  "64b53450-8f66-4cf6-a76a-c1be8ed988d8": {
+    "originalId": "64b53450-8f66-4cf6-a76a-c1be8ed988d8",
+    "translatedId": "a148e505-c8e5-476e-927b-5bc74de9feaa",
+    "originalTitle": "Misión 1 - Restablecer la luz",
+    "translatedTitle": "Mission 1 - Restore the Light",
+    "originalUpdatedAt": "2025-04-02T16:00:48.148Z",
+    "translatedAt": "2025-07-17T19:36:38.312Z"
+  },
+  "41556a49-656b-4f96-8c5a-ea41555d9b5b": {
+    "originalId": "41556a49-656b-4f96-8c5a-ea41555d9b5b",
+    "translatedId": "d5f552da-9989-4b81-ba1b-471084858502",
+    "originalTitle": "Habilidades",
+    "translatedTitle": "Skills",
+    "originalUpdatedAt": "2025-03-29T15:22:10.329Z",
+    "translatedAt": "2025-07-17T19:36:41.210Z"
+  },
+  "fc779f40-5764-4dfb-93b8-8053625f7c21": {
+    "originalId": "fc779f40-5764-4dfb-93b8-8053625f7c21",
+    "translatedId": "c7a2273e-c74d-4a7b-a329-ec3b48cd831b",
+    "originalTitle": "Bufos",
+    "translatedTitle": "Toads",
+    "originalUpdatedAt": "2025-04-02T12:38:40.119Z",
+    "translatedAt": "2025-07-17T19:36:44.633Z"
+  },
+  "01ac0463-c2f2-4e3b-b17c-d1bc6a4ae22f": {
+    "originalId": "01ac0463-c2f2-4e3b-b17c-d1bc6a4ae22f",
+    "translatedId": "53f5f8e7-4a79-4670-8547-485d42858fb7",
+    "originalTitle": "Mente elemental",
+    "translatedTitle": "Elemental Mind",
+    "originalUpdatedAt": "2025-04-02T12:40:57.938Z",
+    "translatedAt": "2025-07-17T19:36:45.503Z"
+  },
+  "70e7bdf9-1f2a-4f7e-802a-17af49024ef0": {
+    "originalId": "70e7bdf9-1f2a-4f7e-802a-17af49024ef0",
+    "translatedId": "acdac392-e1c2-4034-82f5-ac4567d10c9a",
+    "originalTitle": "Escena Inicial",
+    "translatedTitle": "Opening Scene",
+    "originalUpdatedAt": "2025-04-02T11:18:03.615Z",
+    "translatedAt": "2025-07-17T19:36:51.560Z"
+  },
+  "2a6fc84e-62a3-44ba-ad70-d10d589a59fb": {
+    "originalId": "2a6fc84e-62a3-44ba-ad70-d10d589a59fb",
+    "translatedId": "6657d261-c359-4be9-8b8e-3426056d64b8",
+    "originalTitle": "Misión 2 - Resolver el problema del oxígeno",
+    "translatedTitle": "Mission 2 - Solve the Oxygen Problem",
+    "originalUpdatedAt": "2025-04-02T11:14:16.229Z",
+    "translatedAt": "2025-07-17T19:37:28.008Z"
+  },
+  "69fed1d0-db22-4b78-8c9b-518e37b474e8": {
+    "originalId": "69fed1d0-db22-4b78-8c9b-518e37b474e8",
+    "translatedId": "15c51a30-0cd1-45bb-b8c3-babca30f48da",
+    "originalTitle": "Elementos interactuables",
+    "translatedTitle": "Interactable Elements",
+    "originalUpdatedAt": "2025-03-29T15:37:37.952Z",
+    "translatedAt": "2025-07-17T19:37:30.218Z"
+  },
+  "2a347528-832b-4915-a0a3-12ef2566120f": {
+    "originalId": "2a347528-832b-4915-a0a3-12ef2566120f",
+    "translatedId": "08968265-669b-4f1c-9297-f0ebcea205c5",
+    "originalTitle": "Pila de basura tecnológica",
+    "translatedTitle": "Pile of Technological Garbage",
+    "originalUpdatedAt": "2025-04-02T11:10:20.520Z",
+    "translatedAt": "2025-07-17T19:37:31.609Z"
+  },
+  "170cee72-78cb-4331-84ad-25adb8064d0a": {
+    "originalId": "170cee72-78cb-4331-84ad-25adb8064d0a",
+    "translatedId": "e5e2524d-7d27-429b-97de-2174aefc7a9a",
+    "originalTitle": "Misión 3 - Bajar al laboratorio para sintetizar vacuna",
+    "translatedTitle": "Mission 3 - Go down to the laboratory to synthesize vaccine",
+    "originalUpdatedAt": "2025-04-02T11:02:19.580Z",
+    "translatedAt": "2025-07-17T19:37:55.078Z"
+  },
+  "91ae9ee8-df00-43d1-b7ad-89a49dcb3442": {
+    "originalId": "91ae9ee8-df00-43d1-b7ad-89a49dcb3442",
+    "translatedId": "0e2c443a-2e7c-4b2c-b459-6c53206f8b2f",
+    "originalTitle": "Escena de la muerte de Riley",
+    "translatedTitle": "Scene of Riley's Death",
+    "originalUpdatedAt": "2025-03-31T09:24:29.511Z",
+    "translatedAt": "2025-07-17T19:38:06.684Z"
+  },
+  "b0be2413-0105-4885-9ca8-058dc2647585": {
+    "originalId": "b0be2413-0105-4885-9ca8-058dc2647585",
+    "translatedId": "6fd117d7-462d-4f3f-b810-dab349d75615",
+    "originalTitle": "Motivación del Instructor Mason",
+    "translatedTitle": "Instructor Mason's Motivation",
+    "originalUpdatedAt": "2025-03-31T09:24:05.634Z",
+    "translatedAt": "2025-07-17T19:38:13.574Z"
+  },
+  "a9d62977-95d0-4b5f-8352-265745923756": {
+    "originalId": "a9d62977-95d0-4b5f-8352-265745923756",
+    "translatedId": "0822a957-69b2-4126-aacb-2645d55d3642",
+    "originalTitle": "Final del juego",
+    "translatedTitle": "End of the Game",
+    "originalUpdatedAt": "2025-03-31T09:22:34.146Z",
+    "translatedAt": "2025-07-17T19:38:21.419Z"
+  },
+  "cd98540c-9984-4246-a26c-b201b2c12295": {
+    "originalId": "cd98540c-9984-4246-a26c-b201b2c12295",
+    "translatedId": "48c89e5f-2150-4574-acc5-a380c2b7f667",
+    "originalTitle": "Terminal",
+    "translatedTitle": "Terminal",
+    "originalUpdatedAt": "2025-03-31T09:19:28.585Z",
+    "translatedAt": "2025-07-17T19:38:24.343Z"
+  },
+  "b49cf743-f07a-4572-8f69-c79e8f89fef5": {
+    "originalId": "b49cf743-f07a-4572-8f69-c79e8f89fef5",
+    "translatedId": "2adb2e12-0933-4488-b943-120581192c0a",
+    "originalTitle": "HUD",
+    "translatedTitle": "HUD",
+    "originalUpdatedAt": "2025-03-29T16:37:03.351Z",
+    "translatedAt": "2025-07-17T19:38:27.711Z"
+  },
+  "0425dc85-93be-40b3-9b06-978c649d4202": {
+    "originalId": "0425dc85-93be-40b3-9b06-978c649d4202",
+    "translatedId": "0f74a258-e34d-460b-817b-cea677ff5e26",
+    "originalTitle": "Terminal",
+    "translatedTitle": "Terminal",
+    "originalUpdatedAt": "2025-03-31T09:19:20.822Z",
+    "translatedAt": "2025-07-17T19:38:41.605Z"
+  },
+  "a1657d76-37d8-468c-9238-cc7a2a7b21de": {
+    "originalId": "a1657d76-37d8-468c-9238-cc7a2a7b21de",
+    "translatedId": "8be26053-2dcb-41cf-8f8a-1da289fe6980",
+    "originalTitle": "Flux",
+    "translatedTitle": "Flow",
+    "originalUpdatedAt": "2025-03-31T08:43:43.791Z",
+    "translatedAt": "2025-07-17T19:38:43.538Z"
+  },
+  "a0c95e10-dda9-454f-a804-210b43d23efe": {
+    "originalId": "a0c95e10-dda9-454f-a804-210b43d23efe",
+    "translatedId": "2f798c1c-921c-4fd7-b7b6-288a277a4001",
+    "originalTitle": "Eko",
+    "translatedTitle": "Echo",
+    "originalUpdatedAt": "2025-03-31T08:33:56.227Z",
+    "translatedAt": "2025-07-17T19:38:45.764Z"
+  },
+  "eb475388-e2c0-4446-9af6-2aa6dee7c4aa": {
+    "originalId": "eb475388-e2c0-4446-9af6-2aa6dee7c4aa",
+    "translatedId": "302aa969-910d-4c83-838e-cfb4ed4015f1",
+    "originalTitle": "Luther",
+    "translatedTitle": "Luther",
+    "originalUpdatedAt": "2025-03-31T08:33:17.195Z",
+    "translatedAt": "2025-07-17T19:38:47.770Z"
+  },
+  "8520681b-0f7e-4e00-87d9-fe5458b7d9ce": {
+    "originalId": "8520681b-0f7e-4e00-87d9-fe5458b7d9ce",
+    "translatedId": "08dc80bd-05f7-43b3-b421-02616b205dbf",
+    "originalTitle": "Economía de Sangre",
+    "translatedTitle": "Blood Economy",
+    "originalUpdatedAt": "2025-03-29T17:03:49.114Z",
+    "translatedAt": "2025-07-17T19:38:50.412Z"
+  },
+  "def9b42c-00a7-4af4-a08e-c5dde1db3723": {
+    "originalId": "def9b42c-00a7-4af4-a08e-c5dde1db3723",
+    "translatedId": "92df6d52-c9ad-44ad-9562-c95c2fe9ab6b",
+    "originalTitle": "Trueno Cadente",
+    "translatedTitle": "Falling Thunder",
+    "originalUpdatedAt": "2025-03-29T17:03:43.440Z",
+    "translatedAt": "2025-07-17T19:38:54.195Z"
+  },
+  "ed24da5c-fae1-477c-a214-614410cbaf73": {
+    "originalId": "ed24da5c-fae1-477c-a214-614410cbaf73",
+    "translatedId": "8a026fd3-7951-4a3f-953d-33308ef67f13",
+    "originalTitle": "Ojo de Halcón",
+    "translatedTitle": "Hawkeye",
+    "originalUpdatedAt": "2025-03-29T17:03:33.020Z",
+    "translatedAt": "2025-07-17T19:38:57.500Z"
+  },
+  "3b05c753-0a63-4dba-9faa-8911bd79ae9f": {
+    "originalId": "3b05c753-0a63-4dba-9faa-8911bd79ae9f",
+    "translatedId": "71bd4704-9af1-48d5-bd24-2a68c366b31a",
+    "originalTitle": "Explosión Espinosa",
+    "translatedTitle": "Thorny Explosion",
+    "originalUpdatedAt": "2025-03-29T17:03:19.539Z",
+    "translatedAt": "2025-07-17T19:39:00.833Z"
+  },
+  "d88f2424-1224-4e9c-a496-e85ea9bfeb10": {
+    "originalId": "d88f2424-1224-4e9c-a496-e85ea9bfeb10",
+    "translatedId": "e3850320-4e9f-4a91-97b1-c25fd531ecf4",
+    "originalTitle": "Adaptación",
+    "translatedTitle": "Adaptation",
+    "originalUpdatedAt": "2025-03-29T17:03:12.232Z",
+    "translatedAt": "2025-07-17T19:39:03.928Z"
+  },
+  "a40d63a9-da6c-45ff-b6d6-3b5c2fe8fb30": {
+    "originalId": "a40d63a9-da6c-45ff-b6d6-3b5c2fe8fb30",
+    "translatedId": "3ccccad9-3e88-4be2-b2e7-d63181d6022d",
+    "originalTitle": "Atracción de Entropía",
+    "translatedTitle": "Entropy Attraction",
+    "originalUpdatedAt": "2025-03-29T17:03:04.852Z",
+    "translatedAt": "2025-07-17T19:39:06.721Z"
+  },
+  "df6540db-58be-405d-8e45-f7752c81d7c9": {
+    "originalId": "df6540db-58be-405d-8e45-f7752c81d7c9",
+    "translatedId": "29faa13d-b810-404f-b5c6-3881e6cf893a",
+    "originalTitle": "Último Suspiro",
+    "translatedTitle": "Last Breath",
+    "originalUpdatedAt": "2025-03-29T17:02:48.922Z",
+    "translatedAt": "2025-07-17T19:39:10.831Z"
+  },
+  "09936255-301c-4103-aa89-4f6a583ef830": {
+    "originalId": "09936255-301c-4103-aa89-4f6a583ef830",
+    "translatedId": "32ced4fd-3091-48f1-bd26-b48590b15381",
+    "originalTitle": "Flecha Maldita",
+    "translatedTitle": "Cursed Arrow",
+    "originalUpdatedAt": "2025-03-29T17:02:34.933Z",
+    "translatedAt": "2025-07-17T19:39:13.551Z"
+  },
+  "a10d9754-04ae-45ce-8aaa-2f7583b62d2c": {
+    "originalId": "a10d9754-04ae-45ce-8aaa-2f7583b62d2c",
+    "translatedId": "ec2176a9-ba4f-4d1c-bf75-1b640c83e834",
+    "originalTitle": "Disparo Fantasma",
+    "translatedTitle": "Phantom Shot",
+    "originalUpdatedAt": "2025-03-29T17:02:07.731Z",
+    "translatedAt": "2025-07-17T19:39:17.226Z"
+  },
+  "7858c563-9d1d-40f0-bb19-f27ae7d4ab25": {
+    "originalId": "7858c563-9d1d-40f0-bb19-f27ae7d4ab25",
+    "translatedId": "ee359164-310f-4375-963a-245e8fba82a3",
+    "originalTitle": "Ira Frenética",
+    "translatedTitle": "Frenzied Rage",
+    "originalUpdatedAt": "2025-03-29T17:01:53.013Z",
+    "translatedAt": "2025-07-17T19:39:19.584Z"
+  },
+  "95fa2bda-f8d3-4441-b473-a12bd75d16d2": {
+    "originalId": "95fa2bda-f8d3-4441-b473-a12bd75d16d2",
+    "translatedId": "f5dc0ee7-4229-4e2e-92a7-d932cc9fd72a",
+    "originalTitle": "Pócima Inestable",
+    "translatedTitle": "Unstable Potion",
+    "originalUpdatedAt": "2025-03-29T17:01:39.019Z",
+    "translatedAt": "2025-07-17T19:39:22.131Z"
+  },
+  "628988bb-385b-4cc1-aaa0-0cbb7100e943": {
+    "originalId": "628988bb-385b-4cc1-aaa0-0cbb7100e943",
+    "translatedId": "910e3bc8-65e7-49a1-a95d-9ae0fd03aabe",
+    "originalTitle": "Cadena de Venganza",
+    "translatedTitle": "Chain of Revenge",
+    "originalUpdatedAt": "2025-03-29T17:01:18.430Z",
+    "translatedAt": "2025-07-17T19:39:25.481Z"
+  },
+  "1bfb7723-7498-498f-bab7-f427c5db88b4": {
+    "originalId": "1bfb7723-7498-498f-bab7-f427c5db88b4",
+    "translatedId": "b3d6eab1-842a-415b-a200-3c36c34f93db",
+    "originalTitle": "Vampirismo",
+    "translatedTitle": "Vampirism",
+    "originalUpdatedAt": "2025-03-29T17:01:12.935Z",
+    "translatedAt": "2025-07-17T19:39:29.685Z"
+  },
+  "0ca33ee8-5c56-40ac-9808-324301b68801": {
+    "originalId": "0ca33ee8-5c56-40ac-9808-324301b68801",
+    "translatedId": "cba884ea-1a3d-45a4-bb45-59f6d78b0072",
+    "originalTitle": "Actividades opcionales",
+    "translatedTitle": "Optional Activities",
+    "originalUpdatedAt": "2025-03-29T16:39:37.530Z",
+    "translatedAt": "2025-07-17T19:39:31.909Z"
+  },
+  "60e591ab-6457-4b45-9bf3-b73064315942": {
+    "originalId": "60e591ab-6457-4b45-9bf3-b73064315942",
+    "translatedId": "8ed2f0b6-1a1a-4b49-ae43-df5b877d3b62",
+    "originalTitle": "Sala de entrenamiento",
+    "translatedTitle": "Training room",
+    "originalUpdatedAt": "2025-03-29T16:40:05.440Z",
+    "translatedAt": "2025-07-17T19:39:34.685Z"
+  },
+  "9bb332ee-a0ca-4291-8e00-f922d42db13e": {
+    "originalId": "9bb332ee-a0ca-4291-8e00-f922d42db13e",
+    "translatedId": "bbd667bd-241b-4c85-86ef-d8349cdecd61",
+    "originalTitle": "Barra de salud/escudo/aether",
+    "translatedTitle": "Health bar/shield/aether",
+    "originalUpdatedAt": "2025-03-29T16:37:55.912Z",
+    "translatedAt": "2025-07-17T19:39:37.826Z"
+  },
+  "fcd1d3d2-e369-437a-a92e-8f11095f27c0": {
+    "originalId": "fcd1d3d2-e369-437a-a92e-8f11095f27c0",
+    "translatedId": "1c062cde-0baa-4052-8e51-78a16a46e203",
+    "originalTitle": "Puzzles",
+    "translatedTitle": "Puzzles",
+    "originalUpdatedAt": "2025-03-29T16:24:54.499Z",
+    "translatedAt": "2025-07-17T19:39:39.870Z"
+  },
+  "9ad352da-86a3-40bb-be87-3abe5b31c5cf": {
+    "originalId": "9ad352da-86a3-40bb-be87-3abe5b31c5cf",
+    "translatedId": "9376eb46-fccb-4032-aac3-d75a7473f1e0",
+    "originalTitle": "Puzzle 2.5 - Código de acceso al nivel 3",
+    "translatedTitle": "Puzzle 2.5 - Access Code to Level 3",
+    "originalUpdatedAt": "2025-03-29T16:28:34.656Z",
+    "translatedAt": "2025-07-17T19:39:50.571Z"
+  },
+  "eb80d0ba-052b-457e-b201-80b42ce58ed7": {
+    "originalId": "eb80d0ba-052b-457e-b201-80b42ce58ed7",
+    "translatedId": "cfea2c92-801a-4ce7-b1cd-3b9193d2bd3d",
+    "originalTitle": "Opcionales",
+    "translatedTitle": "Optional",
+    "originalUpdatedAt": "2025-03-29T16:25:03.928Z",
+    "translatedAt": "2025-07-17T19:39:52.889Z"
+  },
+  "c3facd82-73f1-41ec-94c9-cfde1238e158": {
+    "originalId": "c3facd82-73f1-41ec-94c9-cfde1238e158",
+    "translatedId": "dcc6e345-d298-48eb-9031-0bcfb1e73f82",
+    "originalTitle": "Puzzle opc. - Liberar a Quim",
+    "translatedTitle": "Puzzle opc. - Free Quim",
+    "originalUpdatedAt": "2025-03-29T16:28:21.563Z",
+    "translatedAt": "2025-07-17T19:40:02.058Z"
+  },
+  "b4a0f36d-947f-4285-87e0-c6f5c9940874": {
+    "originalId": "b4a0f36d-947f-4285-87e0-c6f5c9940874",
+    "translatedId": "385b758d-68ae-4e26-ab4f-1e007244b29b",
+    "originalTitle": "Puzzle 3.5 - Reconducir el agua al embalse",
+    "translatedTitle": "Puzzle 3.5 - Redirect the Water to the Reservoir",
+    "originalUpdatedAt": "2025-03-29T16:27:54.470Z",
+    "translatedAt": "2025-07-17T19:40:07.702Z"
+  },
+  "faaaaef7-5a6a-48ba-9b96-dac3a9483303": {
+    "originalId": "faaaaef7-5a6a-48ba-9b96-dac3a9483303",
+    "translatedId": "c7aa660e-6156-4769-93af-4e2f7315bba5",
+    "originalTitle": "Puzzle 3.3 - Reparar el embalse",
+    "translatedTitle": "Puzzle 3.3 - Repair the Reservoir",
+    "originalUpdatedAt": "2025-03-29T16:27:35.265Z",
+    "translatedAt": "2025-07-17T19:40:16.314Z"
+  },
+  "ef1c89d4-c868-43cf-ab27-617959d6c89a": {
+    "originalId": "ef1c89d4-c868-43cf-ab27-617959d6c89a",
+    "translatedId": "11d05a8d-4b5a-4b74-9722-5556ab80601a",
+    "originalTitle": "Puzzle 2.3 - Sintetizar el antifúngico",
+    "translatedTitle": "Puzzle 2.3 - Synthesize the Antifungal",
+    "originalUpdatedAt": "2025-03-29T16:26:36.653Z",
+    "translatedAt": "2025-07-17T19:40:31.516Z"
+  },
+  "addb0445-340f-42d0-936c-00126bbbe572": {
+    "originalId": "addb0445-340f-42d0-936c-00126bbbe572",
+    "translatedId": "bcc3c71a-338e-4ef8-a657-a585e2bf599c",
+    "originalTitle": "Puzzle 1.3 - Reactivar generadores",
+    "translatedTitle": "Puzzle 1.3 - Reactivate Generators",
+    "originalUpdatedAt": "2025-03-29T16:26:27.534Z",
+    "translatedAt": "2025-07-17T19:40:33.733Z"
+  },
+  "0549fc15-ea7f-469c-82ed-56fdb85f49da": {
+    "originalId": "0549fc15-ea7f-469c-82ed-56fdb85f49da",
+    "translatedId": "0034cbd7-9baf-4a50-8fc9-e7fc3ed389f7",
+    "originalTitle": "Puzzle 0 - Tutorial de la terminal",
+    "translatedTitle": "Puzzle 0 - Terminal Tutorial",
+    "originalUpdatedAt": "2025-03-29T16:26:16.014Z",
+    "translatedAt": "2025-07-17T19:40:37.389Z"
+  },
+  "7868b4bb-4479-4986-a085-16020bd551c6": {
+    "originalId": "7868b4bb-4479-4986-a085-16020bd551c6",
+    "translatedId": "08a95f9b-add6-4727-9fe0-325738fe07ea",
+    "originalTitle": "Ascensor",
+    "translatedTitle": "Elevator",
+    "originalUpdatedAt": "2025-03-29T16:24:35.504Z",
+    "translatedAt": "2025-07-17T19:40:42.734Z"
+  },
+  "700283e2-99ba-4393-849d-1e09bf3d1961": {
+    "originalId": "700283e2-99ba-4393-849d-1e09bf3d1961",
+    "translatedId": "bfd27bd2-d182-44ac-b052-6f996555c02a",
+    "originalTitle": "Escalera de subida",
+    "translatedTitle": "Stairway Up",
+    "originalUpdatedAt": "2025-03-29T16:24:22.200Z",
+    "translatedAt": "2025-07-17T19:40:44.675Z"
+  },
+  "5359ef84-4d9a-44f1-84ea-a9244d717d37": {
+    "originalId": "5359ef84-4d9a-44f1-84ea-a9244d717d37",
+    "translatedId": "65b5d9d3-f1a9-4e27-b562-3b380eddeec7",
+    "originalTitle": "Máquinas expendedoras",
+    "translatedTitle": "Vending machines",
+    "originalUpdatedAt": "2025-03-29T16:21:43.625Z",
+    "translatedAt": "2025-07-17T19:40:46.494Z"
+  },
+  "38ac4e7c-0790-4da2-b630-cfd44fd76e3d": {
+    "originalId": "38ac4e7c-0790-4da2-b630-cfd44fd76e3d",
+    "translatedId": "b4b382f7-7c27-4a0b-a2c9-bba4215f8c04",
+    "originalTitle": "Máquinas de mejora",
+    "translatedTitle": "Improvement Machines",
+    "originalUpdatedAt": "2025-03-29T16:20:57.901Z",
+    "translatedAt": "2025-07-17T19:40:50.634Z"
+  },
+  "fca3dd66-473a-457a-adfe-70daa19ddf0a": {
+    "originalId": "fca3dd66-473a-457a-adfe-70daa19ddf0a",
+    "translatedId": "39dec4d8-15b8-4130-8861-c3a517d59912",
+    "originalTitle": "Enemigos",
+    "translatedTitle": "Enemies",
+    "originalUpdatedAt": "2025-03-29T15:01:16.375Z",
+    "translatedAt": "2025-07-17T19:40:53.817Z"
+  },
+  "43ef65c1-516d-4462-a883-34339475ab58": {
+    "originalId": "43ef65c1-516d-4462-a883-34339475ab58",
+    "translatedId": "760f2bbf-642a-43de-9db6-c62095ef557d",
+    "originalTitle": "Tenant - Militar infectado",
+    "translatedTitle": "Tenant - Infected Soldier",
+    "originalUpdatedAt": "2025-03-29T16:09:01.329Z",
+    "translatedAt": "2025-07-17T19:40:57.998Z"
+  },
+  "e29416dd-4a3b-42a5-ab34-b7cab27dd57d": {
+    "originalId": "e29416dd-4a3b-42a5-ab34-b7cab27dd57d",
+    "translatedId": "a32fae25-1d23-4894-8d81-865999f9052c",
+    "originalTitle": "Objetos",
+    "translatedTitle": "Objects",
+    "originalUpdatedAt": "2025-03-29T15:25:31.525Z",
+    "translatedAt": "2025-07-17T19:41:00.342Z"
+  },
+  "2257b826-2a7d-4c10-8617-24aa1bbcf8b3": {
+    "originalId": "2257b826-2a7d-4c10-8617-24aa1bbcf8b3",
+    "translatedId": "b1b96e92-1302-46a7-bbe6-a2ecc45bae45",
+    "originalTitle": "Chips de escudo",
+    "translatedTitle": "Shield Chips",
+    "originalUpdatedAt": "2025-03-29T15:40:26.681Z",
+    "translatedAt": "2025-07-17T19:41:01.698Z"
+  },
+  "530baff8-d7f5-4f84-b13d-a77861d97d2d": {
+    "originalId": "530baff8-d7f5-4f84-b13d-a77861d97d2d",
+    "translatedId": "43679040-29b4-4b34-8b9f-f2cb9f191049",
+    "originalTitle": "Lugares secretos",
+    "translatedTitle": "Secret Places",
+    "originalUpdatedAt": "2025-03-29T15:39:49.379Z",
+    "translatedAt": "2025-07-17T19:41:07.965Z"
+  },
+  "ea5178dd-f88a-4884-b5c8-82ec9db0c54c": {
+    "originalId": "ea5178dd-f88a-4884-b5c8-82ec9db0c54c",
+    "translatedId": "e94491fe-81ae-4103-a0b8-5feb9796c6bf",
+    "originalTitle": "Objetos coleccionables",
+    "translatedTitle": "Collectible items",
+    "originalUpdatedAt": "2025-03-29T15:32:25.633Z",
+    "translatedAt": "2025-07-17T19:41:10.408Z"
+  },
+  "dcd897c4-b9c1-4814-be88-27aca3f78cc3": {
+    "originalId": "dcd897c4-b9c1-4814-be88-27aca3f78cc3",
+    "translatedId": "be1cc55b-1e59-47c9-b852-9ec24f1eb6af",
+    "originalTitle": "PCB Volátil",
+    "translatedTitle": "Volatile PCB",
+    "originalUpdatedAt": "2025-03-29T15:31:50.138Z",
+    "translatedAt": "2025-07-17T19:41:13.091Z"
+  },
+  "da3f4380-a387-4985-93ad-ee74bde27abd": {
+    "originalId": "da3f4380-a387-4985-93ad-ee74bde27abd",
+    "translatedId": "3c63a61e-5203-4c19-90ab-6094e14cf403",
+    "originalTitle": "PCB",
+    "translatedTitle": "Printed Circuit Board",
+    "originalUpdatedAt": "2025-03-29T15:31:42.711Z",
+    "translatedAt": "2025-07-17T19:41:15.185Z"
+  },
+  "1205682c-ecd2-4abb-9c0c-543515873288": {
+    "originalId": "1205682c-ecd2-4abb-9c0c-543515873288",
+    "translatedId": "a965ad1a-690e-4cc3-becb-45787e923523",
+    "originalTitle": "Recursos",
+    "translatedTitle": "Resources",
+    "originalUpdatedAt": "2025-03-29T15:29:26.659Z",
+    "translatedAt": "2025-07-17T19:41:21.560Z"
+  },
+  "50a0a73b-eb64-4b4c-a9d9-bce90cbc1406": {
+    "originalId": "50a0a73b-eb64-4b4c-a9d9-bce90cbc1406",
+    "translatedId": "f60f00c8-95c9-4987-bc89-c4d31cf6f0ee",
+    "originalTitle": "Aether",
+    "translatedTitle": "Ether",
+    "originalUpdatedAt": "2025-03-29T15:30:25.426Z",
+    "translatedAt": "2025-07-17T19:41:22.398Z"
+  },
+  "f263ebbd-7857-4627-871e-dd16790caaac": {
+    "originalId": "f263ebbd-7857-4627-871e-dd16790caaac",
+    "translatedId": "40d62a07-f3c8-4b91-9f9a-a06397b5bfdb",
+    "originalTitle": "Piedra de Fulmen",
+    "translatedTitle": "Fulmen Stone",
+    "originalUpdatedAt": "2025-03-29T15:30:17.002Z",
+    "translatedAt": "2025-07-17T19:41:24.250Z"
+  },
+  "b399df01-34e3-4663-9ce9-7ce6e2ae2b43": {
+    "originalId": "b399df01-34e3-4663-9ce9-7ce6e2ae2b43",
+    "translatedId": "572dc3d2-abd2-4d0c-8b22-0c0f13954a16",
+    "originalTitle": "Fibra de Caelum",
+    "translatedTitle": "Fiber of Caelum",
+    "originalUpdatedAt": "2025-03-29T15:30:13.052Z",
+    "translatedAt": "2025-07-17T19:41:26.268Z"
+  },
+  "085a0f97-13b6-4279-81d5-17362b83ea19": {
+    "originalId": "085a0f97-13b6-4279-81d5-17362b83ea19",
+    "translatedId": "9f37f69a-1232-47ef-a814-c9b04f6c2399",
+    "originalTitle": "Cristal de Omnia",
+    "translatedTitle": "Crystal of Omnia",
+    "originalUpdatedAt": "2025-03-29T15:30:08.422Z",
+    "translatedAt": "2025-07-17T19:41:28.154Z"
+  },
+  "6686caaf-1652-475b-af14-489d345ce358": {
+    "originalId": "6686caaf-1652-475b-af14-489d345ce358",
+    "translatedId": "7861ed6e-382b-459b-84fb-ef2ca35028c1",
+    "originalTitle": "Spiro",
+    "translatedTitle": "Spiro",
+    "originalUpdatedAt": "2025-03-29T15:30:04.711Z",
+    "translatedAt": "2025-07-17T19:41:30.237Z"
+  },
+  "2d8c5c36-7541-434e-b0fa-50a49b9c3f49": {
+    "originalId": "2d8c5c36-7541-434e-b0fa-50a49b9c3f49",
+    "translatedId": "0911b135-2b83-49d0-b5bc-f4aeb228c505",
+    "originalTitle": "Cócteles",
+    "translatedTitle": "Cocktails",
+    "originalUpdatedAt": "2025-03-29T15:28:06.172Z",
+    "translatedAt": "2025-07-17T19:41:32.158Z"
+  },
+  "312e7d3c-4fa8-4392-a3f8-cffbaff200f8": {
+    "originalId": "312e7d3c-4fa8-4392-a3f8-cffbaff200f8",
+    "translatedId": "8d0ee8f6-51e0-4be7-bf6f-3591bad54984",
+    "originalTitle": "Items Clave",
+    "translatedTitle": "Key Items",
+    "originalUpdatedAt": "2025-03-29T15:27:47.924Z",
+    "translatedAt": "2025-07-17T19:41:34.056Z"
+  },
+  "10c7787a-af53-4159-81f7-14d975b837c9": {
+    "originalId": "10c7787a-af53-4159-81f7-14d975b837c9",
+    "translatedId": "1067e7ef-3352-4e33-94c3-0f614f17f1b0",
+    "originalTitle": "Items de mazmorra",
+    "translatedTitle": "Dungeon Items",
+    "originalUpdatedAt": "2025-03-29T15:26:06.913Z",
+    "translatedAt": "2025-07-17T19:41:37.163Z"
+  },
+  "05ea339b-a9c8-4810-ae98-9619d0e4a1d8": {
+    "originalId": "05ea339b-a9c8-4810-ae98-9619d0e4a1d8",
+    "translatedId": "0dc1fd20-69dd-4901-9fa9-872c3fa21a5f",
+    "originalTitle": "Escudo",
+    "translatedTitle": "Shield",
+    "originalUpdatedAt": "2025-03-29T15:25:06.997Z",
+    "translatedAt": "2025-07-17T19:41:40.997Z"
+  },
+  "8d75bb1b-910a-4583-b0b7-cd86b84af967": {
+    "originalId": "8d75bb1b-910a-4583-b0b7-cd86b84af967",
+    "translatedId": "d4ffe096-9a10-44ed-92db-bf6fa304be9c",
+    "originalTitle": "Flechas",
+    "translatedTitle": "Arrows",
+    "originalUpdatedAt": "2025-03-29T15:24:10.989Z",
+    "translatedAt": "2025-07-17T19:41:45.751Z"
+  },
+  "8bddd81a-1502-49a3-bc6a-1c1fdf33182b": {
+    "originalId": "8bddd81a-1502-49a3-bc6a-1c1fdf33182b",
+    "translatedId": "a2ff94ec-f7c0-428c-b807-ea086535caf6",
+    "originalTitle": "Ultimates",
+    "translatedTitle": "Ultimates",
+    "originalUpdatedAt": "2025-03-29T15:22:52.809Z",
+    "translatedAt": "2025-07-17T19:41:48.709Z"
+  },
+  "cc001ae8-319d-43fe-8b84-2bca7a2f9507": {
+    "originalId": "cc001ae8-319d-43fe-8b84-2bca7a2f9507",
+    "translatedId": "dc6661f8-e812-4bb2-9b04-144db6d365ef",
+    "originalTitle": "Tenant - Rata infectada",
+    "translatedTitle": "Tenant - Infected Rat",
+    "originalUpdatedAt": "2025-03-29T15:13:14.099Z",
+    "translatedAt": "2025-07-17T19:41:51.486Z"
+  },
+  "a8dfcb3a-c27d-4c29-aa4f-a530209222db": {
+    "originalId": "a8dfcb3a-c27d-4c29-aa4f-a530209222db",
+    "translatedId": "96273dd7-e0b9-4605-b5bd-817bbdc87712",
+    "originalTitle": "Tenant - Limo Carroñero",
+    "translatedTitle": "Tenant - Scavenger Car",
+    "originalUpdatedAt": "2025-03-29T15:13:07.206Z",
+    "translatedAt": "2025-07-17T19:41:54.221Z"
+  },
+  "9fb850a5-72fa-49c2-9cf8-e49e92475685": {
+    "originalId": "9fb850a5-72fa-49c2-9cf8-e49e92475685",
+    "translatedId": "c56306ec-bb15-4f0f-b41b-89cf071f520e",
+    "originalTitle": "Tenant Ilusorio",
+    "translatedTitle": "Illusory Tenant",
+    "originalUpdatedAt": "2025-03-29T15:11:01.017Z",
+    "translatedAt": "2025-07-17T19:41:57.442Z"
+  },
+  "7c73a5f4-e633-4515-ae23-db4b6171977b": {
+    "originalId": "7c73a5f4-e633-4515-ae23-db4b6171977b",
+    "translatedId": "85074215-d952-4001-a0ee-23bbfb90c2a9",
+    "originalTitle": "Tenant Parásito",
+    "translatedTitle": "Parasite Tenant",
+    "originalUpdatedAt": "2025-03-29T15:08:25.666Z",
+    "translatedAt": "2025-07-17T19:42:01.625Z"
+  },
+  "4108ed83-f268-42e6-8e60-e013669d8e19": {
+    "originalId": "4108ed83-f268-42e6-8e60-e013669d8e19",
+    "translatedId": "c5bb7283-2b79-4ef3-a041-8261100ec46a",
+    "originalTitle": "Tenant Engendrador",
+    "translatedTitle": "Tenant Breeder",
+    "originalUpdatedAt": "2025-07-17T19:59:52.453Z",
+    "translatedAt": "2025-07-17T20:00:06.081Z"
+  },
+  "0420c559-2d0b-4be2-b628-3fcaea01dd55": {
+    "originalId": "0420c559-2d0b-4be2-b628-3fcaea01dd55",
+    "translatedId": "92727d63-9a07-4fe2-bd04-6df5b4513385",
+    "originalTitle": "Tenant Primitivo",
+    "translatedTitle": "Primitive Tenant",
+    "originalUpdatedAt": "2025-03-29T15:06:22.114Z",
+    "translatedAt": "2025-07-17T19:42:13.111Z"
+  },
+  "7e0d1515-7342-4113-a27c-19e83895bd72": {
+    "originalId": "7e0d1515-7342-4113-a27c-19e83895bd72",
+    "translatedId": "e2fdcdfe-0395-49f8-821f-340d490c8ac8",
+    "originalTitle": "Mini-Boss 3.3 - Musgo tenant",
+    "translatedTitle": "Mini-Boss 3.3 - Moss Tenant",
+    "originalUpdatedAt": "2025-03-29T15:00:19.400Z",
+    "translatedAt": "2025-07-17T19:42:27.819Z"
+  },
+  "cdd671c9-7234-46df-9361-992d7595af23": {
+    "originalId": "cdd671c9-7234-46df-9361-992d7595af23",
+    "translatedId": "1ce3ec17-ed4e-4127-98d2-576f6c7179fa",
+    "originalTitle": "Mini-boss 2.3 - Planta tenant",
+    "translatedTitle": "Mini-boss 2.3 - Plant Tenant",
+    "originalUpdatedAt": "2025-03-29T14:59:13.280Z",
+    "translatedAt": "2025-07-17T19:42:41.408Z"
+  },
+  "6871eaea-6980-4919-9a0c-7b4a367868db": {
+    "originalId": "6871eaea-6980-4919-9a0c-7b4a367868db",
+    "translatedId": "daa7363e-39a6-4866-b0a0-8b92fcc6dc1b",
+    "originalTitle": "5.5 Mason - Aberración",
+    "translatedTitle": "5.5 Mason - Aberration",
+    "originalUpdatedAt": "2025-03-29T12:06:23.435Z",
+    "translatedAt": "2025-07-17T19:42:44.572Z"
+  },
+  "2c0e064c-d5d4-4914-b02c-5e10a15b3f17": {
+    "originalId": "2c0e064c-d5d4-4914-b02c-5e10a15b3f17",
+    "translatedId": "3e937628-4b40-419d-8cd9-6bf609547315",
+    "originalTitle": "3.5 Mason - Infectado humanoide",
+    "translatedTitle": "3.5 Mason - Infected Humanoid",
+    "originalUpdatedAt": "2025-03-29T12:06:12.958Z",
+    "translatedAt": "2025-07-17T19:42:47.522Z"
+  },
+  "a9b16f56-1a70-451b-80b6-3c7b499983b7": {
+    "originalId": "a9b16f56-1a70-451b-80b6-3c7b499983b7",
+    "translatedId": "babe607e-8d0c-40a2-bc4a-9d6025a6741f",
+    "originalTitle": "2.5 Paul - Sistema de regadío",
+    "translatedTitle": "2.5 Paul - Irrigation System",
+    "originalUpdatedAt": "2025-03-29T12:00:38.392Z",
+    "translatedAt": "2025-07-17T19:42:58.073Z"
+  },
+  "52ecf485-8d0b-483d-a342-0e7375708893": {
+    "originalId": "52ecf485-8d0b-483d-a342-0e7375708893",
+    "translatedId": "cf72cdc1-476b-48b7-adde-676c30d971cb",
+    "originalTitle": "1.5 Mason - Humano",
+    "translatedTitle": "1.5 Mason - Human",
+    "originalUpdatedAt": "2025-03-29T11:41:45.590Z",
+    "translatedAt": "2025-07-17T19:43:11.063Z"
   }
 }

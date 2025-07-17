@@ -77,6 +77,7 @@ export interface Config {
   maxSpendingUsd?: number;
   batchSize?: number;
   dryRun?: boolean;
+  model?: string;
 }
 
 export interface TranslationStats {

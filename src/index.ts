@@ -4,6 +4,7 @@ import { TranslationService } from "./services/translationService";
 import { TranslationTracker } from "./services/translationTracker";
 import { CostEstimator } from "./services/costEstimator";
 import { UsageMonitor } from "./services/usageMonitor";
+import { DocumentHierarchy } from "./services/documentHierarchy";
 import { TranslationStats, OutlineDocumentCreateRequest } from "./types";
 
 async function main(): Promise<void> {
@@ -19,6 +20,11 @@ async function main(): Promise<void> {
     const translationService = new TranslationService(config);
     const tracker = new TranslationTracker();
     const usageMonitor = new UsageMonitor(config.openaiApiKey);
+    const documentHierarchy = new DocumentHierarchy(
+      outlineClient,
+      translationService,
+      tracker
+    );
 
     console.log("✅ Services initialized\n");
 
@@ -48,6 +54,28 @@ async function main(): Promise<void> {
       );
       return;
     }
+
+    // Build document hierarchy for folder structure replication
+    console.log(`\n🔍 Documents found in source collection:`);
+    documents.forEach((doc, index) => {
+      console.log(
+        `   ${index + 1}. "${doc.title}" (ID: ${doc.id})${
+          doc.parentDocumentId
+            ? ` - Parent: ${doc.parentDocumentId}`
+            : " - ROOT"
+        }`
+      );
+    });
+
+    const rootNodes = documentHierarchy.buildHierarchy(documents);
+    documentHierarchy.printHierarchyStats(rootNodes);
+
+    console.log(`\n🌳 Root documents in hierarchy:`);
+    rootNodes.forEach((node, index) => {
+      console.log(
+        `   ${index + 1}. "${node.document.title}" (ID: ${node.document.id})`
+      );
+    });
 
     // Filter out documents that are already translated and up-to-date
     const documentsToTranslate = documents.filter((doc) => {
@@ -205,6 +233,14 @@ async function main(): Promise<void> {
 
         // Translate content and title (force translation for first doc in dry run)
         const forceTranslate = config.dryRun && isFirstDoc;
+
+        // Ensure folder structure exists and get parent document ID
+        const parentDocumentId = await documentHierarchy.ensureFolderStructure(
+          doc.id,
+          config.targetCollectionId,
+          forceTranslate
+        );
+
         const [translatedContent, translatedTitle] = await Promise.all([
           translationService.translateToEnglish(
             fullDoc.text,
@@ -220,6 +256,11 @@ async function main(): Promise<void> {
           text: translatedContent,
           collectionId: config.targetCollectionId,
         };
+
+        // Set parent document ID to maintain folder structure
+        if (parentDocumentId) {
+          createRequest.parentDocumentId = parentDocumentId;
+        }
 
         // Only add emoji if it exists
         if (fullDoc.emoji) {
